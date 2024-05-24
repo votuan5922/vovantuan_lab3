@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387406283355",
+    "project_id": "vovantuan-a1a27",
+    "storage_bucket": "vovantuan-a1a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387406283355:android:30b80cceb07713e3e7357e",
+        "android_client_info": {
+          "package_name": "com.ktgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTXTY3QKsEgsiJUN4bwwiLSUIyMzXq90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387406283355:android:2d4d0c35f2923e2fe7357e",
+        "android_client_info": {
+          "package_name": "com.lab3vovantuan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTXTY3QKsEgsiJUN4bwwiLSUIyMzXq90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
